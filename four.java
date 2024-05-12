@@ -1,1 +1,1 @@
-print int(input(" this is good boy"))
+system. out.println("this is good ")
